@@ -6,6 +6,7 @@ public class atividade02 {
         int vetor[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         
         Scanner scanner = new Scanner(System.in);
+        
         System.out.print("Digite o número a ser localizado: ");
         int numero = scanner.nextInt();
         
